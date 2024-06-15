@@ -1,0 +1,24 @@
+Displaying the details of Student 1
+Name=Eshwar
+USN=56
+Age=19
+Semester=3
+Marks=249.00
+
+No of DS classes attended by the student Eshwar is 3 out of 3
+No of ADE classes attended by the student Eshwar is 3 out of 3
+No of MATHS classes attended by the student Eshwar is 2 out of 3
+No of OOPS classes attended by the student Eshwar is 2 out of 3
+No of COA classes attended by the student Eshwar is 2 out of 3
+Displaying the details of Student 2
+Name=Harsh
+USN=62
+Age=19
+Semester=3
+Marks=283.00
+
+No of DS classes attended by the student Harsh is 2 out of 3
+No of ADE classes attended by the student Harsh is 2 out of 3
+No of MATHS classes attended by the student Harsh is 2 out of 3
+No of OOPS classes attended by the student Harsh is 2 out of 3
+No of COA classes attended by the student Harsh is 2 out of 3
